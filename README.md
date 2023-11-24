@@ -1,1 +1,1 @@
-"# Discord-Bot-Contest-DevSky-2023" 
+# Discord-Bot-Contest-DevSky-2023
