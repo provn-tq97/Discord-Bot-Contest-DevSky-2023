@@ -7,7 +7,7 @@ const slashCommands: ApplicationCommandDataResolvable[] = [
         .addStringOption((option) =>
             option
                 .setName('zeit')
-                .setDescription('⏲️› Wann solltest du erinnert werden?')
+                .setDescription('⏲️› Wann solltest du erinnert werden? z.b. 2m')
                 .setRequired(true)
                 .setMinLength(2)
                 .setMaxLength(99),
