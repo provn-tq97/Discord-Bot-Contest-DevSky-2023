@@ -2,4 +2,6 @@ node_modules
 logs
 .env
 dist
-database/reminder
+database/reminder/enmap.sqlite
+database/reminder/enmap.sqlite-shm
+database/reminder/enmap.sqlite-wal
